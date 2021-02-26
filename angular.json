@@ -120,5 +120,9 @@
       }
     }
   },
-  "defaultProject": "angular"
+  "defaultProject": "angular",
+  "cli": {
+    "analytics": "32aed267-c832-4b0e-a2b2-fb40a73a29b6",
+    "defaultCollection": "@angular-eslint/schematics"
+  }
 }
